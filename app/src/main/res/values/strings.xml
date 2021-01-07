@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DemoRestful</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello First fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="About_us">Movie Arena is the worlds most popular and authoritative source for movie, TV and
+    celebrity content, designed to help fans explore the world of movies and shows and decide what
+    to watch.Our searchable database includes millions of movies, TV and entertainment programs and cast and
+    crew members. We help you jog your memory about a movie, show, or person on the tip of your tongue,
+    find the best movie or show to watch next, and empower you to share your entertainment knowledge
+    and opinions with the world’s largest community of fans.</string>
+    <string name="todo">TODO</string>
+</resources>
