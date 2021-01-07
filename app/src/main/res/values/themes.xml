@@ -17,13 +17,4 @@
     </style>
 
 
-
-    <style name="Theme.DemoRestful.NoActionBar">
-        <item name="windowActionBar">false</item>
-        <item name="windowNoTitle">true</item>
-    </style>
-
-    <style name="Theme.DemoRestful.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
-
-    <style name="Theme.DemoRestful.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>
